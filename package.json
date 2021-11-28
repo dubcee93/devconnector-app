@@ -1,34 +1,34 @@
 {
-  "name": "devconnector-app",
-  "version": "1.0.0",
-  "description": "Social network app for developers",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dubcee93/devconnector-app.git"
-  },
-  "author": "Shea Erickson",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dubcee93/devconnector-app/issues"
-  },
-  "homepage": "https://github.com/dubcee93/devconnector-app#readme",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "config": "^3.3.6",
-    "express": "^4.17.1",
-    "express-validator": "^6.13.0",
-    "gravatar": "^1.8.2",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.0.13",
-    "request": "^2.88.2"
-  },
-  "devDependencies": {
-    "concurrently": "^6.4.0",
-    "nodemon": "^2.0.15"
-  }
+    "name": "devconnector-app",
+    "version": "1.0.0",
+    "description": "Social network app for developers",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "server": "nodemon server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dubcee93/devconnector-app.git"
+    },
+    "author": "Shea Erickson",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dubcee93/devconnector-app/issues"
+    },
+    "homepage": "https://github.com/dubcee93/devconnector-app#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "config": "^3.3.6",
+        "express": "^4.17.1",
+        "express-validator": "^6.13.0",
+        "gravatar": "^1.8.2",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^6.0.13",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {
+        "concurrently": "^6.4.0",
+        "nodemon": "^2.0.15"
+    }
 }
