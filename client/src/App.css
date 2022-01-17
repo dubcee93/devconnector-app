@@ -67,6 +67,7 @@ img {
 }
 
 .text-primary {
+    /* margin-top: 4rem; */
     color: var(--primary-color);
 }
 
@@ -300,7 +301,7 @@ button {
 
 /* Navbar */
 .navbar {
-    display: flex;
+    display: inline-flex;
     justify-content: space-between;
     align-items: center;
     padding: 0.7rem 2rem;
