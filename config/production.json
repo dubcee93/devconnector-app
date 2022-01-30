@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://shea123:shea123@devconnector.wasyr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "c30ad66ef44e8b164732",
+    "githubSecret": "9f98ae7b6959585f492a2535d1f15c4cc73369aa"
+}
